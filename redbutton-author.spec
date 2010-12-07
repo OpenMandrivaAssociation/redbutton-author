@@ -1,6 +1,6 @@
 Name:           redbutton-author
 Version:        20090727
-Release:        %mkrel 1
+Release:        %mkrel 2
 Group:          Development/Other
 License:        GPLv2+
 Summary:        Redbutton author for MHEG5 content
