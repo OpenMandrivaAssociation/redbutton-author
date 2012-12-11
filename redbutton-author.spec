@@ -37,7 +37,19 @@ install -m 755 mhegd %buildroot%_bindir
 %_bindir/mhegc
 %_bindir/mhegd
 
+
+
 %changelog
-* Sun Nov 29 2009 Olivier Faurax <olivier.faurax@laposte.net> 20090727-1mdv2009.1
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 20090727-2mdv2011.0
++ Revision: 614704
+- the mass rebuild of 2010.1 packages
+
+* Sun Nov 29 2009 Olivier Faurax <ofaurax@mandriva.org> 20090727-1mdv2010.1
++ Revision: 471572
+- Added missing .spec
+- import redbutton-author
+
+
+* Fri Oct 19 2009 Olivier Faurax <olivier.faurax@laposte.net> 20090727-1neo2009.1
 - Initial package
 
