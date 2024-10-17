@@ -5,7 +5,7 @@ Group:          Development/Other
 License:        GPLv2+
 Summary:        Redbutton author for MHEG5 content
 Source:         redbutton-author-%{version}.tar.gz
-URL:            http://redbutton.sourceforge.net/
+URL:            https://redbutton.sourceforge.net/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildRequires:	flex
